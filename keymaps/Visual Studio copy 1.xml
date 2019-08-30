@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio copy 1" parent="Visual Studio">
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorPasteFromX11" />
+</keymap>
